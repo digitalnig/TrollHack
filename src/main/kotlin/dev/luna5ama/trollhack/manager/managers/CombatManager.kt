@@ -570,3 +570,5 @@ object CombatManager : Manager() {
         combatModules = cacheList
     }
 }
+
+// rating
